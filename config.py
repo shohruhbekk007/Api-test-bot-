@@ -1,11 +1,2 @@
-from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-
-TOKEN = '7157927302:AAE66ux_101InPe6MiSdXeBUXO48tZaSt-w'
-
-
-menyu = InlineKeyboardMarkup(
-    inline_keyboard=[
-        [InlineKeyboardButton(text=" 👨‍💻 Admin", url="https://t.me/rajabov_shohruhbek")]
-    ]
-)
-
+token = "7157927302:AAFY9UfPDK0bkRrUs0pO-cpt8pPKhzrKt2s"
+admins = [5502720862, ]
